@@ -1,7 +1,6 @@
 
 # Webisivu
 
-
 Loisto homma et sä löysit tänne!
 Polta kaikki sanomalehdet ja postimainokset, et sä niitä enää tartte!
 Digi on tätäpäivää, ja verkkosivut on navigoinnin, mainonnan sekä informaation jakamisen A ja O.
